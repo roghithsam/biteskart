@@ -2,7 +2,7 @@
 
 ## Introduction
 
->  I'll Created a basic plugin that adds custom CSS to your WordPress site, targeting only the WooCommerce pages.
+>  I'll Created a basic plugin that adds custom CSS to your WordPress site, targeting only the WooCommerce pages it will fix a layout quirks on Mobile Devices.
 
 ## Installation
 
